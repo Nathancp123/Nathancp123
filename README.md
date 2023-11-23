@@ -1,7 +1,14 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Nathancp123/Nathancp123/blob/main/imggithub.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">
+Bem-vindo ao Meu Repositório 👋
+Eu sou Nathan, um estudante apaixonado por programação e desenvolvimento de sistemas. Este é o meu espaço no GitHub, onde compartilho os frutos da minha jornada de aprendizado e exploração no vasto mundo da tecnologia.
+
+<p> Sobre Mim</p>
+<p>👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).</p>
+<p>🚀 Criando projetos para construir um alicerce sólido como futuro profissional.</p>
+<p>🌐 Explorando diversas áreas da programação, desde desenvolvimento web até machine learning.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
