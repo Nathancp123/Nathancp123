@@ -9,12 +9,6 @@ Eu sou Nathan, um estudante apaixonado por programação e desenvolvimento de si
 <p>👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).</p>
 <p>🚀 Criando projetos para construir um alicerce sólido como futuro profissional.</p>
 <p>🌐 Explorando diversas áreas da programação, desde desenvolvimento web até machine learning.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-test-ashen.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
  &nbsp;
  &nbsp;
 
