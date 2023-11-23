@@ -12,8 +12,6 @@ Eu sou Nathan, um estudante apaixonado por programação e desenvolvimento de si
  &nbsp;
  &nbsp;
 
-
-
 ## My Skills
 
 #### Main Stack:
