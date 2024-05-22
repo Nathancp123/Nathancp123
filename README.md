@@ -8,7 +8,7 @@ Eu sou Nathan, um estudante apaixonado por programação e desenvolvimento de si
 <p> Sobre Mim</p>
 <p>👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).</p>
 <p>🚀 Criando projetos para construir um alicerce sólido como futuro profissional.</p>
-<p>🌐 Explorando diversas áreas da programação, desde desenvolvimento web até machine learning.</p>&nbsp;
+<p>🌐 Explorando diversas áreas da programação</p>&nbsp;
  &nbsp;
  &nbsp;
 
